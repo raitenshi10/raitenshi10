@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
 
 ### Hi there 👋
-
+[![wakatime](https://wakatime.com/badge/github/raitenshi10/Foody.svg)](https://wakatime.com/badge/github/raitenshi10/Foody)
 
 **raitenshi10/raitenshi10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,6 +12,8 @@
 
 ### 📫 Contact Me
 - Whatsapp +085624341817
+
+
 
 
 <!--END_SECTION:waka-->
