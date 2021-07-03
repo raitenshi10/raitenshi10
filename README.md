@@ -1,16 +1,12 @@
 ### Hi there 👋
 
-<!--
+
 **raitenshi10/raitenshi10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on many projects
+- 🌱 I’m currently learning about MAD (Modern Android Development) Skills
+- 🥅 2021 Goals: Finishing my side projects and got a Job :D
+- ⚡ Fun fact: I really love watching Anime, Listening to Metal Music Genres.
 
-- 🔭 I’m currently working on Self Taught Android Developer
-- 🌱 I’m currently learning MAD (Modern Android Development) Skills
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Contact Me
+- Whatsapp +085624341817
