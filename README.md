@@ -1,3 +1,14 @@
+## Hi there, My name is Ilham,, 👋
+
+
+### I'm a Self Taught Developer!
+- 🔭 I’m currently working on a ton of side project!
+- 🌱 I’m currently learning about Modern Android Development (MADS) skill & also trying to learn Flutter
+- 🥅 2021 Goals: Got HIRED !! :D
+- ⚡ Fun fact: Metal Music is my mood booster while my fingers meet the keycaps hahaha LOL,,, 
+
+
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-64-blue)
 
