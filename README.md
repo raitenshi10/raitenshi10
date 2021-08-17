@@ -31,18 +31,16 @@
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-XML                      0 secs              ███████████████░░░░░░░░░░   62.12% 
-Kotlin                   0 secs              █████████░░░░░░░░░░░░░░░░   36.7% 
-Groovy                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.17%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-FoodReciepes             0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -57,5 +55,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 16/08/2021
+ Last Updated on 17/08/2021
 <!--END_SECTION:waka-->
