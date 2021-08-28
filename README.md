@@ -31,16 +31,16 @@
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Kotlin                   0 secs              █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Android Studio           0 secs              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Basic Jetpack Compose    0 secs              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    0 secs              █████████████████████████   100.0%
 
 ```
 
@@ -55,5 +55,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 27/08/2021
+ Last Updated on 28/08/2021
 <!--END_SECTION:waka-->
