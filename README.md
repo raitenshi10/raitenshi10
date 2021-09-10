@@ -3,9 +3,9 @@
 
 ### I'm a Self Taught Developer!
 - 🔭 I’m currently working on a ton of side project!
-- 🌱 I’m currently learning about Modern Android Development (MADS) skill & also trying to learn Flutter
+- 🌱 I’m currently learning about Modern Android Development (MADS) skill & also trying to learn Jetpack Compose
 - 🥅 2021 Goals: Got HIRED !! :D
-- ⚡ Fun fact: Metal Music is my mood booster while my fingers meet the keycaps hahaha LOL,,, 
+- ⚡ Fun fact: Metal Music is my mood booster while my fingers hit the keycaps hahaha  ,,
 
 
 
