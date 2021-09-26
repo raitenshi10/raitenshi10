@@ -31,19 +31,16 @@
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Kotlin                   1 hr 12 mins        █████████████████████████   99.85% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.15%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           1 hr 12 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-PodcastApp               52 mins             ██████████████████░░░░░░░   72.55% 
-MigrationCodelab         11 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.98% 
-Basic Jetpack Compose    8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   11.47%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 12 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -58,5 +55,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 25/09/2021
+ Last Updated on 26/09/2021
 <!--END_SECTION:waka-->
