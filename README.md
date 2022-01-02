@@ -31,16 +31,16 @@
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Dart                     29 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           29 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-flutter_first_project    29 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    29 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -55,5 +55,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 01/01/2022
+ Last Updated on 02/01/2022
 <!--END_SECTION:waka-->
