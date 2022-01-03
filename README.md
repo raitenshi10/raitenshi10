@@ -31,16 +31,18 @@
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Kotlin                   46 mins             ████████████████████████░   96.62% 
+Dart                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   3.38%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Android Studio           48 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+FoodReciepes             46 mins             ████████████████████████░   96.62% 
+flutter_first_project    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   3.38%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    48 mins             █████████████████████████   100.0%
 
 ```
 
@@ -55,5 +57,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 02/01/2022
+ Last Updated on 03/01/2022
 <!--END_SECTION:waka-->
