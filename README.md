@@ -31,19 +31,16 @@
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Kotlin                   20 mins             ███████████████░░░░░░░░░░   61.23% 
-Dart                     10 mins             ████████░░░░░░░░░░░░░░░░░   33.38% 
-Groovy                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   5.38%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           32 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-ComposeSplashScreem      21 mins             ████████████████░░░░░░░░░   65.52% 
-flutter_first_project    11 mins             ████████░░░░░░░░░░░░░░░░░   34.48%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    32 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -58,5 +55,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 10/03/2022 00:21:22 UTC
+ Last Updated on 11/03/2022 00:27:40 UTC
 <!--END_SECTION:waka-->
