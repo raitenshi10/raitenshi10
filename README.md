@@ -50,12 +50,12 @@ No Activity Tracked This Week
 
 ```text
 Kotlin                   9 repos             ████████████████████░░░░░   81.82 % 
-Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
 JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
 
 ```
 
 
 
- Last Updated on 21/02/2023 00:30:19 UTC
+ Last Updated on 22/02/2023 00:25:33 UTC
 <!--END_SECTION:waka-->
