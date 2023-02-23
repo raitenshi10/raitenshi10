@@ -14,23 +14,22 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-380%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-379.6%20thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning        3 commits       █████████████████████████   100.00 % 
-🌆 Daytime        0 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌃 Evening        0 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌙 Night          0 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
+🌞 Morning                3 commits           █████████████████████████   100.00 % 
+🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Bangkok
+🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
 No Activity Tracked This Week
@@ -43,7 +42,6 @@ No Activity Tracked This Week
 
 💻 Operating System: 
 No Activity Tracked This Week
-
 ```
 
 **I Mostly Code in Kotlin** 
@@ -52,10 +50,10 @@ No Activity Tracked This Week
 Kotlin                   9 repos             ████████████████████░░░░░   81.82 % 
 JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
 Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-
 ```
 
 
 
- Last Updated on 22/02/2023 00:25:33 UTC
+
+ Last Updated on 23/02/2023 00:26:52 UTC
 <!--END_SECTION:waka-->
