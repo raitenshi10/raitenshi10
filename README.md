@@ -10,9 +10,45 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-102%20hrs%2024%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-383.60%20thousand%20lines%20of%20code-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                58 commits          ███████████░░░░░░░░░░░░░░   44.96 % 
+🌆 Daytime                30 commits          ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
+🌃 Evening                36 commits          ███████░░░░░░░░░░░░░░░░░░   27.91 % 
+🌙 Night                  5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
 
 **I Mostly Code in Kotlin** 
 
@@ -25,5 +61,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 01:53:29 UTC
+ Last Updated on 08/08/2026 00:35:59 UTC
 <!--END_SECTION:waka-->
